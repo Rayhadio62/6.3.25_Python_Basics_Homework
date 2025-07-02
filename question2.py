@@ -33,3 +33,4 @@ try:
             print("Invalid operation. Please select from 1 to 4.")
 except ValueError:
         print("Invalid input. Please enter numeric values.")
+# Getting the correct indentation drove me crazy
